@@ -52,3 +52,10 @@ layout: default
 　　长线深度游？对比下Natcom的长期包，或者双卡双持——虽然得多养一张卡，但信号安全感翻倍。
 
 　　说到底，通信工具只是工具，可靠与否还得看实际情况。希望这份2025年的指南，能让你在海地的网络连接少点坎坷，多点顺畅。旅途愉快！
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Haiti SIM 卡购买与激活指南](https://faciylike.github.io/haiti-sim-guides)
